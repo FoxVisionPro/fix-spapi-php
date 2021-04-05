@@ -1,4 +1,7 @@
-# SPAPI
+# SPAPI (FORKED FROM DOUBLE-BREAK REPOSITORY TO FIX ISSUES)
+-> See commits for fixed issues
+-> https://github.com/double-break/spapi-php
+
 spapi-php is a http client for Amazon's Selling Partner API
 
 Author: Lyubomir Slavilov
