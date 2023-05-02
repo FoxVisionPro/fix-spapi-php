@@ -21,7 +21,11 @@ class Notifications extends Client {
   *
   * @param string $notificationType The type of notification.
   *
+<<<<<<< HEAD
   * For more information about notification types, see [the Notifications API Use Case Guide](doc:notifications-api-v1-use-case-guide).
+=======
+  * For more information about notification types, see [the Notifications API Use Case Guide](https://github.com/amzn/selling-partner-api-docs/blob/main/guides/en-US/use-case-guides/notifications-api-use-case-guide/notifications-use-case-guide-v1.md).
+>>>>>>> upstream/master
   *
   */
   public function getSubscription($notificationType)
@@ -43,7 +47,11 @@ class Notifications extends Client {
   *
   * @param string $notificationType The type of notification.
   *
+<<<<<<< HEAD
   * For more information about notification types, see [the Notifications API Use Case Guide](doc:notifications-api-v1-use-case-guide).
+=======
+  * For more information about notification types, see [the Notifications API Use Case Guide](https://github.com/amzn/selling-partner-api-docs/blob/main/guides/en-US/use-case-guides/notifications-api-use-case-guide/notifications-use-case-guide-v1.md).
+>>>>>>> upstream/master
   *
   */
   public function createSubscription($notificationType, $body = [])
@@ -68,7 +76,11 @@ class Notifications extends Client {
   * @param string $subscriptionId The identifier for the subscription that you want to get.
   * @param string $notificationType The type of notification.
   *
+<<<<<<< HEAD
   * For more information about notification types, see [the Notifications API Use Case Guide](doc:notifications-api-v1-use-case-guide).
+=======
+  * For more information about notification types, see [the Notifications API Use Case Guide](https://github.com/amzn/selling-partner-api-docs/blob/main/guides/en-US/use-case-guides/notifications-api-use-case-guide/notifications-use-case-guide-v1.md).
+>>>>>>> upstream/master
   *
   */
   public function getSubscriptionById($subscriptionId, $notificationType)
@@ -91,7 +103,11 @@ class Notifications extends Client {
   * @param string $subscriptionId The identifier for the subscription that you want to delete.
   * @param string $notificationType The type of notification.
   *
+<<<<<<< HEAD
   * For more information about notification types, see [the Notifications API Use Case Guide](doc:notifications-api-v1-use-case-guide).
+=======
+  * For more information about notification types, see [the Notifications API Use Case Guide](https://github.com/amzn/selling-partner-api-docs/blob/main/guides/en-US/use-case-guides/notifications-api-use-case-guide/notifications-use-case-guide-v1.md).
+>>>>>>> upstream/master
   *
   */
   public function deleteSubscriptionById($subscriptionId, $notificationType)

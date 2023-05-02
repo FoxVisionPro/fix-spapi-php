@@ -38,12 +38,6 @@ class VendorDirectFulfillmentTransactions extends Client {
   * Operation 
   *
   */
-  public function ()
-  {
-    return $this->send("/vendor/directFulfillment/transactions/2021-12-28/transactions/{transactionId}", [
-      'method' => 'X-AMZN-API-SANDBOX',
-    ]);
-  }
 
   public function Async()
   {

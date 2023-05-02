@@ -9,7 +9,11 @@
 * Selling Partner API for Catalog Items
 * The Selling Partner API for Catalog Items provides programmatic access to information about items in the Amazon catalog.
 
+<<<<<<< HEAD
 For more information, refer to the [Catalog Items API Use Case Guide](doc:catalog-items-api-v2022-04-01-use-case-guide).
+=======
+For more information, see the [Catalog Items API Use Case Guide](https://github.com/amzn/selling-partner-api-docs/blob/main/guides/en-US/use-case-guides/catalog-items-api-use-case-guide/catalog-items-api-use-case-guide_2020-12-01.md).
+>>>>>>> upstream/master
 */
 namespace DoubleBreak\Spapi\Api;
 use DoubleBreak\Spapi\Client;
